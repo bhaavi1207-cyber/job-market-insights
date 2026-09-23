@@ -1,0 +1,601 @@
+job_id,title,company_type,location,job_type,source,salary_lpa,experience_years,skills,posted_date
+J1001,DevOps Engineer,Enterprise,Bengaluru,Full-time,Naukri,9.7,0,Linux;CI/CD,2026-01-29
+J1002,Frontend Developer,Startup,Bengaluru,Full-time,Wellfound,7.3,4,JavaScript;CSS,2026-01-08
+J1003,Data Scientist,Startup,Delhi NCR,Full-time,LinkedIn,12.7,3,Python;Statistics,2026-03-13
+J1004,Data Analyst,Mid-size,Mumbai,Internship,Naukri,5.7,4,SQL;Power BI;Excel;Tableau,2026-01-25
+J1005,Data Scientist,Enterprise,Bengaluru,Full-time,Naukri,11.2,0,Machine Learning;Python;Pandas;Statistics,2026-08-15
+J1006,Data Analyst,Startup,Hyderabad,Full-time,LinkedIn,7.7,0,Power BI;Python;Pandas;SQL,2026-06-12
+J1007,Data Analyst,Enterprise,Mumbai,Full-time,LinkedIn,6.8,0,Python;SQL;Excel;Pandas,2026-04-08
+J1008,Full Stack Developer,Enterprise,Chennai,Full-time,Naukri,7.8,5,Node.js;SQL;MongoDB,2026-01-17
+J1009,Backend Developer,Enterprise,Mumbai,Contract,LinkedIn,5.5,1,AWS;Docker;Node.js;REST APIs,2026-07-10
+J1010,UI/UX Designer,Enterprise,Bengaluru,Internship,Wellfound,4.9,5,Adobe XD;User Research;Wireframing,2026-01-29
+J1011,UI/UX Designer,Enterprise,Remote,Internship,Naukri,4.7,2,Wireframing;Prototyping,2026-01-03
+J1012,Data Analyst,Enterprise,Delhi NCR,Full-time,LinkedIn,6.1,1,Python;Excel;Pandas;Power BI,2026-01-01
+J1013,UI/UX Designer,Enterprise,Hyderabad,Full-time,Indeed,7.4,2,Prototyping;Figma,2026-08-25
+J1014,Backend Developer,Startup,Delhi NCR,Internship,Indeed,7.7,1,Python;PostgreSQL,2026-08-13
+J1015,Data Analyst,Mid-size,Pune,Full-time,Indeed,7.6,1,Pandas;Excel;Tableau,2026-05-21
+J1016,DevOps Engineer,Mid-size,Remote,Full-time,LinkedIn,5.4,0,Linux;Terraform;Kubernetes;AWS,2026-06-16
+J1017,Backend Developer,Enterprise,Mumbai,Full-time,Indeed,10.0,0,AWS;Python,2026-01-02
+J1018,Full Stack Developer,Startup,Pune,Internship,Indeed,9.0,1,TypeScript;MongoDB;Node.js;React;SQL,2026-06-21
+J1019,DevOps Engineer,Mid-size,Hyderabad,Contract,LinkedIn,9.6,0,Docker;CI/CD;AWS;Terraform,2026-04-21
+J1020,Backend Developer,Enterprise,Hyderabad,Full-time,LinkedIn,5.7,0,Docker;AWS;Node.js,2026-02-19
+J1021,Frontend Developer,Startup,Remote,Contract,LinkedIn,5.9,1,Tailwind;CSS,2026-06-16
+J1022,Frontend Developer,Startup,Remote,Full-time,Naukri,5.7,4,Redux;Tailwind;HTML;CSS;React,2026-02-12
+J1023,Backend Developer,Startup,Mumbai,Full-time,Naukri,4.4,5,AWS;REST APIs;Python,2026-03-17
+J1024,Frontend Developer,Startup,Bengaluru,Full-time,Indeed,5.4,1,HTML;Tailwind,2026-05-11
+J1025,Frontend Developer,Mid-size,Mumbai,Full-time,LinkedIn,4.6,3,JavaScript;TypeScript,2026-06-08
+J1026,Data Analyst,Mid-size,Hyderabad,Internship,LinkedIn,5.3,0,SQL;Power BI;Python;Excel,2026-02-03
+J1027,Full Stack Developer,Startup,Chennai,Full-time,LinkedIn,10.8,2,AWS;MongoDB;React;SQL,2026-02-03
+J1028,UI/UX Designer,Enterprise,Bengaluru,Contract,LinkedIn,7.4,1,User Research;Adobe XD;Wireframing;Figma,2026-05-22
+J1029,DevOps Engineer,Enterprise,Mumbai,Full-time,Wellfound,11.3,0,Docker;CI/CD;AWS,2026-03-29
+J1030,Frontend Developer,Startup,Mumbai,Full-time,Naukri,6.3,4,HTML;React;Redux;Tailwind,2026-01-01
+J1031,DevOps Engineer,Enterprise,Bengaluru,Full-time,Wellfound,8.0,0,AWS;Terraform;Docker,2026-08-20
+J1032,Full Stack Developer,Enterprise,Bengaluru,Internship,Indeed,7.8,1,Node.js;MongoDB;AWS,2026-02-23
+J1033,Data Analyst,Enterprise,Remote,Internship,Wellfound,6.3,1,Excel;Python;SQL,2026-01-07
+J1034,Data Analyst,Mid-size,Bengaluru,Internship,Wellfound,4.5,1,Python;SQL,2026-08-12
+J1035,DevOps Engineer,Mid-size,Bengaluru,Full-time,Naukri,7.5,4,Terraform;Linux;AWS;Docker;CI/CD,2026-02-19
+J1036,Full Stack Developer,Startup,Bengaluru,Full-time,Naukri,7.2,0,TypeScript;AWS;Node.js;MongoDB,2026-02-15
+J1037,Frontend Developer,Startup,Pune,Internship,Naukri,8.6,1,TypeScript;CSS;React;Tailwind;Redux,2026-07-01
+J1038,Full Stack Developer,Enterprise,Remote,Full-time,Naukri,7.3,2,AWS;Node.js,2026-06-19
+J1039,Backend Developer,Enterprise,Delhi NCR,Full-time,Wellfound,6.8,0,SQL;REST APIs;Python;Docker;PostgreSQL,2026-04-18
+J1040,Data Scientist,Mid-size,Hyderabad,Full-time,Wellfound,11.3,1,Statistics;Python;SQL;Pandas,2026-06-17
+J1041,DevOps Engineer,Startup,Chennai,Internship,Naukri,6.6,1,Kubernetes;Docker;Linux;CI/CD,2026-06-12
+J1042,Data Analyst,Mid-size,Hyderabad,Full-time,LinkedIn,6.5,5,Tableau;Python,2026-06-06
+J1043,Backend Developer,Startup,Delhi NCR,Full-time,Naukri,8.9,5,Node.js;AWS,2026-06-17
+J1044,Backend Developer,Mid-size,Bengaluru,Full-time,Wellfound,7.9,3,REST APIs;Docker,2026-08-23
+J1045,Data Scientist,Enterprise,Hyderabad,Full-time,Indeed,8.6,1,Statistics;SQL;Pandas;TensorFlow;Python,2026-07-28
+J1046,Full Stack Developer,Enterprise,Bengaluru,Full-time,LinkedIn,8.8,1,Node.js;MongoDB,2026-04-23
+J1047,Data Analyst,Enterprise,Bengaluru,Full-time,LinkedIn,5.3,0,Python;Tableau;Power BI,2026-06-27
+J1048,UI/UX Designer,Enterprise,Hyderabad,Full-time,LinkedIn,6.8,4,Adobe XD;Prototyping,2026-05-30
+J1049,Data Analyst,Mid-size,Pune,Full-time,Naukri,7.0,1,Tableau;Python;SQL;Power BI,2026-02-26
+J1050,Data Scientist,Startup,Mumbai,Full-time,Wellfound,5.4,4,SQL;Machine Learning,2026-05-25
+J1051,Data Analyst,Mid-size,Bengaluru,Part-time,Wellfound,7.2,5,SQL;Power BI;Pandas;Python,2026-03-25
+J1052,Backend Developer,Enterprise,Bengaluru,Full-time,LinkedIn,9.9,1,Python;REST APIs,2026-06-16
+J1053,Data Analyst,Enterprise,Remote,Full-time,LinkedIn,4.8,0,Python;Excel,2026-06-21
+J1054,Frontend Developer,Mid-size,Mumbai,Contract,LinkedIn,8.6,1,React;HTML,2026-05-29
+J1055,DevOps Engineer,Startup,Delhi NCR,Full-time,Naukri,10.6,0,AWS;Linux;CI/CD,2026-08-01
+J1056,DevOps Engineer,Enterprise,Mumbai,Full-time,Wellfound,8.4,4,AWS;CI/CD,2026-04-05
+J1057,DevOps Engineer,Startup,Delhi NCR,Part-time,LinkedIn,10.7,5,CI/CD;Terraform;AWS;Kubernetes;Docker,2026-02-09
+J1058,UI/UX Designer,Mid-size,Remote,Full-time,Wellfound,6.1,4,User Research;Figma,2026-08-28
+J1059,Data Analyst,Startup,Pune,Full-time,LinkedIn,4.4,2,Power BI;SQL;Python;Pandas,2026-08-06
+J1060,Backend Developer,Mid-size,Pune,Full-time,Wellfound,9.0,5,REST APIs;Node.js;PostgreSQL;SQL;AWS,2026-07-04
+J1061,Data Analyst,Mid-size,Mumbai,Full-time,Wellfound,4.7,3,Excel;Tableau;Pandas,2026-06-27
+J1062,Full Stack Developer,Startup,Delhi NCR,Full-time,Naukri,11.7,1,Node.js;MongoDB;TypeScript,2026-03-06
+J1063,Full Stack Developer,Startup,Chennai,Full-time,LinkedIn,7.1,1,SQL;React;AWS;MongoDB,2026-07-05
+J1064,Full Stack Developer,Enterprise,Chennai,Full-time,Indeed,9.0,5,TypeScript;MongoDB;SQL,2026-06-28
+J1065,Backend Developer,Mid-size,Bengaluru,Full-time,Wellfound,8.0,0,Python;REST APIs;AWS;SQL,2026-01-14
+J1066,Frontend Developer,Enterprise,Delhi NCR,Full-time,Naukri,4.4,4,CSS;Tailwind,2026-03-05
+J1067,Full Stack Developer,Mid-size,Pune,Full-time,Indeed,5.7,1,MongoDB;Node.js;SQL;TypeScript;React,2026-08-09
+J1068,Backend Developer,Enterprise,Bengaluru,Full-time,Wellfound,8.2,2,Node.js;Python;SQL,2026-03-03
+J1069,DevOps Engineer,Startup,Mumbai,Part-time,Naukri,9.4,1,CI/CD;Docker;Kubernetes;AWS;Linux,2026-03-14
+J1070,Full Stack Developer,Startup,Bengaluru,Internship,Wellfound,10.8,2,TypeScript;React;MongoDB,2026-07-31
+J1071,DevOps Engineer,Mid-size,Pune,Full-time,LinkedIn,5.3,4,Terraform;AWS;Linux;Docker;CI/CD,2026-03-19
+J1072,Backend Developer,Enterprise,Chennai,Full-time,Naukri,5.2,5,SQL;Python,2026-06-22
+J1073,Data Scientist,Startup,Pune,Full-time,LinkedIn,5.8,1,SQL;Pandas;TensorFlow;Machine Learning;Statistics,2026-04-22
+J1074,UI/UX Designer,Mid-size,Bengaluru,Full-time,LinkedIn,6.9,0,Adobe XD;Wireframing,2026-07-14
+J1075,Data Analyst,Enterprise,Hyderabad,Internship,Wellfound,6.8,1,Excel;Power BI;Python,2026-01-14
+J1076,Full Stack Developer,Startup,Bengaluru,Full-time,Naukri,10.0,2,AWS;React;TypeScript;MongoDB;SQL,2026-04-23
+J1077,UI/UX Designer,Mid-size,Remote,Full-time,LinkedIn,7.7,2,Adobe XD;User Research,2026-08-22
+J1078,Data Analyst,Mid-size,Bengaluru,Full-time,LinkedIn,7.6,1,SQL;Excel;Tableau;Python;Power BI,2026-08-02
+J1079,UI/UX Designer,Enterprise,Bengaluru,Full-time,Indeed,5.4,1,Wireframing;Adobe XD;Prototyping;User Research,2026-01-01
+J1080,Data Scientist,Mid-size,Remote,Contract,Indeed,6.9,4,Machine Learning;Pandas;Python;Statistics;SQL,2026-07-15
+J1081,DevOps Engineer,Mid-size,Remote,Internship,Naukri,6.1,0,Kubernetes;Linux;AWS;Docker;Terraform,2026-08-22
+J1082,Frontend Developer,Startup,Delhi NCR,Full-time,Naukri,3.9,5,Tailwind;TypeScript;Redux;CSS;HTML,2026-05-15
+J1083,Frontend Developer,Enterprise,Chennai,Full-time,LinkedIn,7.3,5,Tailwind;HTML;React;Redux,2026-08-07
+J1084,Backend Developer,Startup,Delhi NCR,Full-time,LinkedIn,8.4,0,Docker;Python;SQL;Node.js,2026-06-11
+J1085,Frontend Developer,Mid-size,Hyderabad,Full-time,LinkedIn,5.5,1,JavaScript;Tailwind,2026-03-25
+J1086,Frontend Developer,Enterprise,Mumbai,Full-time,Wellfound,4.4,2,CSS;TypeScript;React;Tailwind;JavaScript,2026-06-06
+J1087,DevOps Engineer,Startup,Hyderabad,Full-time,Wellfound,9.5,4,Terraform;AWS;CI/CD,2026-05-20
+J1088,UI/UX Designer,Mid-size,Chennai,Full-time,LinkedIn,4.8,2,User Research;Figma;Adobe XD,2026-03-19
+J1089,Data Analyst,Enterprise,Chennai,Internship,Indeed,7.6,5,Excel;Python,2026-03-12
+J1090,Data Scientist,Startup,Mumbai,Full-time,Naukri,10.8,1,Statistics;Python;TensorFlow;Machine Learning,2026-07-25
+J1091,UI/UX Designer,Enterprise,Hyderabad,Full-time,Indeed,4.6,4,Prototyping;Adobe XD,2026-04-23
+J1092,Backend Developer,Enterprise,Pune,Full-time,LinkedIn,10.4,5,REST APIs;SQL;PostgreSQL;Node.js,2026-07-21
+J1093,Data Analyst,Startup,Chennai,Internship,Indeed,7.8,3,SQL;Tableau;Pandas,2026-01-20
+J1094,Full Stack Developer,Mid-size,Hyderabad,Internship,LinkedIn,7.7,3,React;Node.js,2026-05-18
+J1095,Data Analyst,Enterprise,Bengaluru,Full-time,Naukri,7.5,2,Pandas;Tableau;SQL;Power BI,2026-01-07
+J1096,Frontend Developer,Mid-size,Bengaluru,Full-time,Wellfound,5.3,3,Redux;Tailwind;HTML;CSS,2026-01-10
+J1097,Data Scientist,Mid-size,Mumbai,Contract,Wellfound,12.5,2,Python;SQL;Machine Learning,2026-07-10
+J1098,Data Analyst,Mid-size,Bengaluru,Internship,Wellfound,7.9,3,SQL;Tableau;Excel,2026-04-24
+J1099,Backend Developer,Startup,Mumbai,Full-time,Wellfound,4.1,3,Python;REST APIs;AWS;PostgreSQL;Node.js,2026-02-01
+J1100,UI/UX Designer,Enterprise,Bengaluru,Contract,LinkedIn,3.7,0,User Research;Prototyping;Figma,2026-07-15
+J1101,Data Scientist,Startup,Mumbai,Full-time,LinkedIn,11.3,1,TensorFlow;SQL;Python,2026-03-06
+J1102,Backend Developer,Startup,Delhi NCR,Full-time,Naukri,7.3,3,AWS;REST APIs,2026-03-09
+J1103,Frontend Developer,Enterprise,Bengaluru,Internship,Indeed,6.1,5,Redux;React;Tailwind,2026-04-26
+J1104,Data Analyst,Mid-size,Mumbai,Full-time,Indeed,3.4,0,Excel;Power BI;Python;SQL;Pandas,2026-08-05
+J1105,Full Stack Developer,Mid-size,Remote,Full-time,Wellfound,9.2,0,MongoDB;React;Node.js;TypeScript,2026-06-09
+J1106,Data Analyst,Mid-size,Hyderabad,Full-time,Wellfound,3.5,4,Excel;Pandas;Power BI,2026-08-16
+J1107,Backend Developer,Startup,Bengaluru,Full-time,Wellfound,9.2,3,REST APIs;Python;AWS;Node.js;SQL,2026-06-25
+J1108,Data Scientist,Enterprise,Bengaluru,Full-time,Naukri,11.0,0,SQL;TensorFlow;Statistics;Machine Learning,2026-05-24
+J1109,Frontend Developer,Startup,Mumbai,Full-time,LinkedIn,8.1,3,React;TypeScript;HTML,2026-05-28
+J1110,Backend Developer,Enterprise,Remote,Internship,Wellfound,8.5,0,AWS;PostgreSQL;SQL;Node.js;Docker,2026-07-26
+J1111,Full Stack Developer,Mid-size,Hyderabad,Full-time,LinkedIn,9.6,0,Node.js;React;AWS;SQL,2026-06-29
+J1112,Data Scientist,Mid-size,Pune,Full-time,LinkedIn,7.6,0,Python;Machine Learning;TensorFlow;SQL;Statistics,2026-02-25
+J1113,DevOps Engineer,Mid-size,Mumbai,Full-time,Wellfound,6.9,0,AWS;CI/CD;Docker;Kubernetes,2026-01-21
+J1114,DevOps Engineer,Enterprise,Mumbai,Full-time,LinkedIn,9.2,0,Kubernetes;AWS;Terraform;Docker;CI/CD,2026-06-23
+J1115,Full Stack Developer,Startup,Pune,Full-time,LinkedIn,8.7,1,AWS;MongoDB,2026-03-25
+J1116,UI/UX Designer,Startup,Hyderabad,Internship,Wellfound,5.3,0,User Research;Wireframing;Adobe XD;Prototyping,2026-06-21
+J1117,DevOps Engineer,Mid-size,Bengaluru,Full-time,LinkedIn,10.6,5,Terraform;AWS;Docker;Kubernetes;CI/CD,2026-06-13
+J1118,Backend Developer,Enterprise,Bengaluru,Contract,Naukri,5.6,1,Node.js;AWS;REST APIs;Python;Docker,2026-04-22
+J1119,Full Stack Developer,Startup,Bengaluru,Full-time,LinkedIn,6.1,0,Node.js;TypeScript;AWS,2026-07-06
+J1120,UI/UX Designer,Enterprise,Remote,Full-time,Wellfound,6.1,3,Prototyping;Wireframing;Figma;Adobe XD;User Research,2026-05-25
+J1121,DevOps Engineer,Enterprise,Bengaluru,Full-time,LinkedIn,8.2,0,AWS;Terraform;Docker;Linux,2026-03-19
+J1122,UI/UX Designer,Enterprise,Mumbai,Full-time,Wellfound,7.8,0,Wireframing;Prototyping,2026-08-07
+J1123,Full Stack Developer,Enterprise,Bengaluru,Full-time,LinkedIn,11.3,3,MongoDB;React;Node.js;AWS;SQL,2026-06-04
+J1124,DevOps Engineer,Enterprise,Pune,Full-time,LinkedIn,7.0,4,AWS;Linux;Docker;Terraform;Kubernetes,2026-04-23
+J1125,Frontend Developer,Enterprise,Mumbai,Full-time,Naukri,6.9,1,TypeScript;React,2026-03-26
+J1126,Data Scientist,Mid-size,Hyderabad,Full-time,Naukri,6.0,0,SQL;TensorFlow;Pandas,2026-06-19
+J1127,DevOps Engineer,Startup,Mumbai,Contract,Naukri,9.8,0,Terraform;CI/CD;AWS;Docker,2026-07-22
+J1128,Full Stack Developer,Startup,Hyderabad,Internship,LinkedIn,12.0,1,React;SQL;MongoDB,2026-03-21
+J1129,Data Scientist,Enterprise,Hyderabad,Internship,LinkedIn,8.0,1,Machine Learning;TensorFlow,2026-07-17
+J1130,UI/UX Designer,Enterprise,Hyderabad,Full-time,Naukri,4.2,5,Adobe XD;User Research;Wireframing,2026-08-20
+J1131,UI/UX Designer,Enterprise,Bengaluru,Part-time,Naukri,7.5,1,User Research;Wireframing;Prototyping,2026-04-25
+J1132,UI/UX Designer,Enterprise,Pune,Part-time,Naukri,7.0,1,User Research;Figma;Adobe XD;Prototyping;Wireframing,2026-03-14
+J1133,Data Scientist,Enterprise,Chennai,Contract,LinkedIn,11.1,2,Pandas;TensorFlow,2026-08-28
+J1134,Backend Developer,Startup,Remote,Full-time,Wellfound,6.4,0,Docker;Node.js;REST APIs;SQL;PostgreSQL,2026-08-01
+J1135,Data Analyst,Startup,Bengaluru,Part-time,Naukri,6.2,1,Python;SQL;Excel;Pandas,2026-01-21
+J1136,DevOps Engineer,Enterprise,Pune,Full-time,Indeed,5.1,1,Kubernetes;Linux;CI/CD,2026-08-01
+J1137,Frontend Developer,Startup,Hyderabad,Full-time,Wellfound,7.8,5,React;Tailwind;CSS;Redux,2026-07-18
+J1138,DevOps Engineer,Enterprise,Bengaluru,Full-time,Wellfound,6.7,4,Kubernetes;Docker;AWS,2026-05-12
+J1139,Frontend Developer,Mid-size,Chennai,Full-time,LinkedIn,5.2,0,TypeScript;React,2026-05-15
+J1140,Full Stack Developer,Enterprise,Delhi NCR,Full-time,LinkedIn,8.8,1,MongoDB;TypeScript,2026-03-03
+J1141,DevOps Engineer,Startup,Bengaluru,Internship,Wellfound,7.1,0,Kubernetes;Docker;AWS,2026-05-03
+J1142,Full Stack Developer,Enterprise,Pune,Full-time,Wellfound,7.0,0,MongoDB;SQL;AWS;React;Node.js,2026-05-12
+J1143,Data Analyst,Enterprise,Hyderabad,Part-time,LinkedIn,3.9,5,Excel;Power BI;Pandas;SQL;Python,2026-08-16
+J1144,Frontend Developer,Enterprise,Bengaluru,Full-time,LinkedIn,4.8,5,HTML;Redux;CSS,2026-04-21
+J1145,Backend Developer,Mid-size,Hyderabad,Internship,Indeed,8.3,4,SQL;PostgreSQL;Node.js;AWS;REST APIs,2026-06-26
+J1146,DevOps Engineer,Enterprise,Chennai,Full-time,Indeed,6.0,5,Docker;Kubernetes;Terraform;CI/CD,2026-04-14
+J1147,UI/UX Designer,Mid-size,Hyderabad,Full-time,Wellfound,6.4,3,User Research;Wireframing;Figma;Adobe XD,2026-06-15
+J1148,Data Scientist,Mid-size,Mumbai,Full-time,LinkedIn,10.9,5,TensorFlow;Pandas;Python;Machine Learning;SQL,2026-04-04
+J1149,DevOps Engineer,Enterprise,Bengaluru,Contract,Wellfound,5.9,0,CI/CD;Kubernetes;Terraform,2026-04-25
+J1150,Frontend Developer,Enterprise,Hyderabad,Full-time,Wellfound,8.3,1,Redux;Tailwind;JavaScript;TypeScript,2026-07-27
+J1151,Data Scientist,Startup,Delhi NCR,Full-time,Wellfound,7.9,3,Pandas;TensorFlow,2026-02-27
+J1152,Backend Developer,Startup,Hyderabad,Part-time,Naukri,7.7,4,REST APIs;AWS,2026-06-06
+J1153,Frontend Developer,Enterprise,Bengaluru,Full-time,Wellfound,3.8,1,Tailwind;JavaScript;CSS;React,2026-02-02
+J1154,UI/UX Designer,Mid-size,Bengaluru,Full-time,Naukri,4.7,2,Figma;User Research;Adobe XD,2026-02-01
+J1155,DevOps Engineer,Startup,Mumbai,Full-time,LinkedIn,9.5,1,Kubernetes;Linux;AWS;CI/CD,2026-05-22
+J1156,Frontend Developer,Startup,Bengaluru,Full-time,Wellfound,6.9,4,HTML;Redux,2026-07-31
+J1157,Frontend Developer,Enterprise,Remote,Full-time,Naukri,7.1,2,CSS;React;Redux;JavaScript,2026-05-08
+J1158,Data Analyst,Mid-size,Bengaluru,Full-time,LinkedIn,6.6,3,Tableau;Python;Excel;Pandas;SQL,2026-04-17
+J1159,Full Stack Developer,Startup,Bengaluru,Full-time,LinkedIn,7.0,4,AWS;TypeScript;Node.js;React;MongoDB,2026-03-03
+J1160,Data Scientist,Startup,Delhi NCR,Full-time,Wellfound,9.0,2,Pandas;Python;TensorFlow;Machine Learning,2026-07-04
+J1161,Data Scientist,Startup,Mumbai,Full-time,LinkedIn,9.8,5,SQL;TensorFlow;Python,2026-04-28
+J1162,UI/UX Designer,Startup,Remote,Internship,Naukri,4.8,4,Figma;Prototyping;Wireframing;User Research;Adobe XD,2026-01-28
+J1163,Data Analyst,Enterprise,Bengaluru,Part-time,Naukri,3.6,0,Tableau;Excel;Power BI;Pandas;Python,2026-05-10
+J1164,UI/UX Designer,Enterprise,Pune,Full-time,LinkedIn,3.7,3,Wireframing;Adobe XD;Figma,2026-02-06
+J1165,Data Scientist,Mid-size,Remote,Full-time,LinkedIn,9.9,2,TensorFlow;SQL;Pandas,2026-08-17
+J1166,DevOps Engineer,Mid-size,Chennai,Full-time,Naukri,11.9,2,Terraform;Docker;CI/CD;Kubernetes,2026-05-25
+J1167,DevOps Engineer,Enterprise,Bengaluru,Full-time,Wellfound,10.0,4,Kubernetes;Terraform;Docker,2026-07-20
+J1168,Data Scientist,Startup,Bengaluru,Full-time,LinkedIn,10.5,4,TensorFlow;Statistics,2026-06-29
+J1169,Data Analyst,Enterprise,Bengaluru,Full-time,LinkedIn,6.3,4,Excel;Python,2026-08-12
+J1170,Data Analyst,Enterprise,Hyderabad,Internship,Naukri,6.2,2,Power BI;Tableau;Python;SQL,2026-08-22
+J1171,Full Stack Developer,Startup,Remote,Part-time,Naukri,9.9,5,SQL;TypeScript;MongoDB;AWS,2026-05-23
+J1172,UI/UX Designer,Mid-size,Bengaluru,Full-time,LinkedIn,7.9,3,Prototyping;User Research;Figma;Adobe XD,2026-07-04
+J1173,DevOps Engineer,Mid-size,Mumbai,Internship,LinkedIn,10.8,2,Linux;AWS;Kubernetes;Docker,2026-01-21
+J1174,Data Scientist,Startup,Bengaluru,Contract,LinkedIn,6.9,0,Pandas;SQL;Statistics,2026-07-09
+J1175,Frontend Developer,Startup,Remote,Part-time,LinkedIn,6.9,5,CSS;Redux;JavaScript,2026-06-24
+J1176,UI/UX Designer,Mid-size,Mumbai,Contract,LinkedIn,5.9,0,Prototyping;Wireframing;Figma;User Research,2026-03-15
+J1177,UI/UX Designer,Startup,Remote,Part-time,Indeed,7.4,0,User Research;Figma;Prototyping;Adobe XD;Wireframing,2026-04-12
+J1178,DevOps Engineer,Startup,Chennai,Full-time,LinkedIn,5.8,1,Terraform;CI/CD;AWS;Linux;Docker,2026-05-20
+J1179,Frontend Developer,Mid-size,Pune,Internship,LinkedIn,8.1,4,Tailwind;CSS;HTML;TypeScript,2026-07-08
+J1180,Frontend Developer,Startup,Remote,Full-time,Indeed,3.0,4,JavaScript;CSS,2026-04-13
+J1181,UI/UX Designer,Mid-size,Mumbai,Full-time,LinkedIn,4.8,1,Figma;Adobe XD;Prototyping;User Research,2026-03-10
+J1182,Backend Developer,Enterprise,Bengaluru,Contract,LinkedIn,8.3,1,Python;Docker;REST APIs;PostgreSQL,2026-04-14
+J1183,DevOps Engineer,Mid-size,Delhi NCR,Contract,Naukri,10.6,1,Kubernetes;Linux;Docker;AWS,2026-06-05
+J1184,Data Analyst,Startup,Remote,Full-time,Naukri,7.5,1,Power BI;Pandas;Python;SQL,2026-05-16
+J1185,Full Stack Developer,Startup,Mumbai,Internship,Wellfound,11.3,5,React;TypeScript;Node.js;SQL;AWS,2026-08-07
+J1186,Data Analyst,Enterprise,Pune,Internship,Naukri,5.0,0,Pandas;Python,2026-05-25
+J1187,Data Scientist,Mid-size,Hyderabad,Full-time,Indeed,12.5,0,Pandas;Python,2026-01-19
+J1188,Full Stack Developer,Startup,Delhi NCR,Part-time,Wellfound,7.9,4,TypeScript;MongoDB;AWS,2026-04-15
+J1189,Frontend Developer,Enterprise,Chennai,Full-time,Indeed,5.4,1,Redux;JavaScript;React,2026-06-24
+J1190,UI/UX Designer,Mid-size,Mumbai,Full-time,Wellfound,7.1,1,Wireframing;User Research;Figma;Prototyping,2026-01-06
+J1191,Backend Developer,Startup,Chennai,Full-time,Naukri,10.2,0,Python;REST APIs,2026-08-28
+J1192,Frontend Developer,Mid-size,Mumbai,Internship,LinkedIn,7.4,4,CSS;JavaScript,2026-01-26
+J1193,Data Scientist,Startup,Pune,Full-time,Naukri,10.9,3,TensorFlow;Statistics,2026-02-25
+J1194,UI/UX Designer,Startup,Hyderabad,Full-time,Naukri,4.1,2,User Research;Figma;Adobe XD;Wireframing,2026-06-22
+J1195,DevOps Engineer,Enterprise,Pune,Part-time,Indeed,9.7,3,Terraform;CI/CD;Linux;Docker;Kubernetes,2026-06-23
+J1196,Data Analyst,Startup,Chennai,Full-time,Naukri,7.0,0,Power BI;Tableau;Pandas;Excel;SQL,2026-02-17
+J1197,Data Analyst,Startup,Hyderabad,Full-time,Wellfound,4.9,1,SQL;Excel;Tableau;Power BI,2026-03-04
+J1198,Data Scientist,Startup,Bengaluru,Internship,Naukri,9.5,5,Machine Learning;SQL,2026-06-04
+J1199,Full Stack Developer,Startup,Remote,Part-time,LinkedIn,12.0,5,Node.js;AWS,2026-08-21
+J1200,DevOps Engineer,Startup,Pune,Internship,LinkedIn,8.7,3,AWS;Terraform;Linux;CI/CD;Kubernetes,2026-02-22
+J1201,Data Analyst,Mid-size,Remote,Full-time,Wellfound,5.8,1,Pandas;Python;SQL;Power BI;Excel,2026-01-26
+J1202,Full Stack Developer,Mid-size,Bengaluru,Full-time,LinkedIn,8.9,3,SQL;TypeScript;AWS,2026-02-09
+J1203,Data Analyst,Startup,Bengaluru,Full-time,LinkedIn,7.4,0,Power BI;SQL;Pandas;Excel,2026-02-13
+J1204,Frontend Developer,Mid-size,Bengaluru,Full-time,LinkedIn,3.9,1,HTML;CSS,2026-07-15
+J1205,Full Stack Developer,Enterprise,Pune,Full-time,Wellfound,5.1,2,AWS;SQL;React;MongoDB;Node.js,2026-01-16
+J1206,UI/UX Designer,Startup,Remote,Full-time,LinkedIn,6.1,2,User Research;Adobe XD;Prototyping,2026-08-29
+J1207,Frontend Developer,Mid-size,Pune,Part-time,LinkedIn,7.1,0,Redux;Tailwind;React;HTML;JavaScript,2026-04-06
+J1208,Data Analyst,Startup,Mumbai,Internship,LinkedIn,7.2,3,Power BI;SQL;Pandas;Tableau;Excel,2026-04-07
+J1209,UI/UX Designer,Mid-size,Bengaluru,Full-time,Indeed,7.5,0,Prototyping;User Research;Figma;Wireframing;Adobe XD,2026-06-27
+J1210,UI/UX Designer,Startup,Bengaluru,Full-time,Wellfound,7.2,3,Wireframing;Prototyping;User Research;Figma;Adobe XD,2026-07-30
+J1211,Frontend Developer,Startup,Chennai,Full-time,Naukri,8.7,4,Tailwind;TypeScript;React;Redux;JavaScript,2026-01-26
+J1212,Data Analyst,Enterprise,Remote,Full-time,Naukri,6.3,0,Power BI;Excel;Python;Pandas,2026-02-28
+J1213,Frontend Developer,Startup,Hyderabad,Internship,LinkedIn,5.3,3,React;Tailwind;Redux;TypeScript,2026-01-22
+J1214,Data Analyst,Startup,Bengaluru,Full-time,Wellfound,5.8,4,SQL;Pandas;Power BI;Python,2026-04-03
+J1215,Data Scientist,Mid-size,Bengaluru,Full-time,Naukri,10.8,1,TensorFlow;Statistics;Machine Learning;SQL,2026-01-24
+J1216,Data Analyst,Mid-size,Hyderabad,Full-time,LinkedIn,5.2,4,Excel;Tableau;SQL,2026-02-13
+J1217,Full Stack Developer,Enterprise,Mumbai,Full-time,LinkedIn,5.7,2,React;TypeScript;SQL,2026-03-06
+J1218,UI/UX Designer,Mid-size,Hyderabad,Full-time,Naukri,6.3,1,User Research;Adobe XD;Wireframing;Figma;Prototyping,2026-06-08
+J1219,Full Stack Developer,Mid-size,Bengaluru,Internship,Wellfound,9.0,1,SQL;TypeScript;MongoDB;Node.js;AWS,2026-02-15
+J1220,Frontend Developer,Enterprise,Remote,Full-time,Naukri,3.2,5,Redux;JavaScript;CSS,2026-08-27
+J1221,UI/UX Designer,Mid-size,Mumbai,Full-time,LinkedIn,4.3,1,Wireframing;Adobe XD,2026-03-16
+J1222,Frontend Developer,Enterprise,Hyderabad,Full-time,Indeed,7.2,0,Tailwind;TypeScript;HTML;React;CSS,2026-04-25
+J1223,UI/UX Designer,Startup,Mumbai,Full-time,Indeed,6.4,4,User Research;Wireframing;Figma;Adobe XD,2026-03-05
+J1224,Frontend Developer,Enterprise,Delhi NCR,Full-time,Naukri,4.3,3,CSS;Tailwind;HTML,2026-03-08
+J1225,DevOps Engineer,Mid-size,Remote,Full-time,LinkedIn,11.4,0,Docker;Kubernetes;AWS,2026-05-09
+J1226,Full Stack Developer,Startup,Pune,Full-time,LinkedIn,10.1,5,SQL;React;MongoDB;AWS;TypeScript,2026-03-29
+J1227,Frontend Developer,Enterprise,Bengaluru,Internship,Indeed,7.4,1,HTML;JavaScript;TypeScript;CSS,2026-08-06
+J1228,Data Analyst,Enterprise,Bengaluru,Full-time,Wellfound,3.1,1,Tableau;Power BI;Pandas;Python;SQL,2026-03-01
+J1229,DevOps Engineer,Mid-size,Delhi NCR,Internship,LinkedIn,5.7,1,AWS;Terraform;Kubernetes,2026-02-24
+J1230,Data Analyst,Enterprise,Chennai,Full-time,Wellfound,6.0,4,Power BI;SQL;Excel;Python,2026-01-30
+J1231,UI/UX Designer,Enterprise,Delhi NCR,Full-time,Wellfound,3.4,1,User Research;Figma;Wireframing,2026-04-28
+J1232,Full Stack Developer,Mid-size,Delhi NCR,Full-time,Wellfound,6.0,4,TypeScript;Node.js;MongoDB,2026-01-30
+J1233,DevOps Engineer,Enterprise,Bengaluru,Full-time,LinkedIn,10.9,0,AWS;Docker;CI/CD,2026-05-18
+J1234,Backend Developer,Enterprise,Pune,Full-time,Naukri,6.9,5,Docker;Python;Node.js;AWS;REST APIs,2026-02-19
+J1235,Full Stack Developer,Startup,Pune,Full-time,Wellfound,10.2,5,AWS;MongoDB;React;SQL,2026-01-09
+J1236,Frontend Developer,Enterprise,Chennai,Full-time,Naukri,6.3,4,React;Redux;JavaScript;TypeScript,2026-03-10
+J1237,UI/UX Designer,Mid-size,Hyderabad,Internship,Wellfound,8.0,1,Prototyping;User Research;Wireframing;Adobe XD;Figma,2026-01-09
+J1238,Data Scientist,Startup,Chennai,Full-time,Wellfound,9.8,1,SQL;Statistics;TensorFlow,2026-02-05
+J1239,Data Scientist,Startup,Remote,Internship,Indeed,12.9,1,Statistics;Machine Learning,2026-03-10
+J1240,Backend Developer,Startup,Delhi NCR,Full-time,Wellfound,8.0,2,PostgreSQL;Docker;REST APIs;AWS,2026-02-07
+J1241,Frontend Developer,Mid-size,Pune,Full-time,Indeed,5.2,5,TypeScript;HTML,2026-06-12
+J1242,Frontend Developer,Enterprise,Remote,Full-time,Naukri,8.1,4,JavaScript;CSS,2026-08-11
+J1243,UI/UX Designer,Mid-size,Hyderabad,Full-time,Wellfound,3.7,5,User Research;Figma;Wireframing;Adobe XD;Prototyping,2026-02-24
+J1244,Frontend Developer,Mid-size,Pune,Part-time,Wellfound,9.0,1,Redux;TypeScript;JavaScript,2026-02-01
+J1245,UI/UX Designer,Startup,Mumbai,Full-time,LinkedIn,7.5,1,Figma;Wireframing;User Research;Prototyping,2026-08-27
+J1246,DevOps Engineer,Mid-size,Mumbai,Internship,LinkedIn,8.3,1,Linux;Kubernetes;CI/CD,2026-06-29
+J1247,Frontend Developer,Startup,Remote,Full-time,LinkedIn,3.4,4,React;Redux;Tailwind;HTML,2026-01-03
+J1248,Full Stack Developer,Startup,Hyderabad,Internship,Indeed,9.5,1,React;AWS;MongoDB;SQL,2026-04-05
+J1249,DevOps Engineer,Mid-size,Delhi NCR,Full-time,LinkedIn,7.9,5,Kubernetes;Docker;Linux;CI/CD;AWS,2026-02-12
+J1250,Data Scientist,Mid-size,Remote,Full-time,LinkedIn,7.2,0,Machine Learning;TensorFlow;SQL;Pandas;Python,2026-07-06
+J1251,UI/UX Designer,Startup,Pune,Full-time,Naukri,4.5,0,Prototyping;Wireframing;Adobe XD;Figma,2026-08-05
+J1252,Backend Developer,Enterprise,Remote,Full-time,LinkedIn,6.2,4,REST APIs;AWS,2026-05-08
+J1253,Data Analyst,Mid-size,Remote,Internship,LinkedIn,3.3,2,Python;SQL;Power BI,2026-04-04
+J1254,UI/UX Designer,Enterprise,Delhi NCR,Internship,Wellfound,5.0,1,User Research;Figma;Prototyping;Wireframing,2026-04-12
+J1255,Data Scientist,Startup,Pune,Full-time,Wellfound,11.7,0,SQL;Pandas;Machine Learning,2026-08-24
+J1256,Frontend Developer,Mid-size,Bengaluru,Full-time,LinkedIn,7.0,1,React;Tailwind,2026-03-04
+J1257,DevOps Engineer,Startup,Pune,Full-time,Wellfound,10.8,2,Kubernetes;AWS,2026-02-05
+J1258,Backend Developer,Enterprise,Remote,Internship,LinkedIn,9.6,2,AWS;Node.js;SQL;PostgreSQL,2026-07-11
+J1259,Data Analyst,Startup,Pune,Full-time,LinkedIn,4.3,0,Power BI;SQL;Python;Excel,2026-04-27
+J1260,Data Scientist,Startup,Bengaluru,Full-time,LinkedIn,6.2,0,TensorFlow;Pandas,2026-01-01
+J1261,Backend Developer,Mid-size,Remote,Full-time,Naukri,8.0,0,AWS;PostgreSQL;Node.js,2026-03-24
+J1262,Backend Developer,Mid-size,Bengaluru,Full-time,LinkedIn,9.9,3,Node.js;AWS,2026-02-27
+J1263,Data Analyst,Startup,Bengaluru,Internship,Naukri,4.2,3,Power BI;Tableau;Python;Excel,2026-01-03
+J1264,Data Scientist,Startup,Bengaluru,Full-time,LinkedIn,7.8,0,SQL;Python;Pandas,2026-07-14
+J1265,UI/UX Designer,Startup,Bengaluru,Part-time,Wellfound,7.8,1,User Research;Figma;Wireframing;Adobe XD,2026-07-08
+J1266,UI/UX Designer,Enterprise,Remote,Full-time,Naukri,5.9,1,Wireframing;Figma;User Research;Adobe XD;Prototyping,2026-05-14
+J1267,DevOps Engineer,Mid-size,Bengaluru,Full-time,Naukri,9.9,3,AWS;CI/CD;Terraform,2026-02-03
+J1268,Backend Developer,Startup,Delhi NCR,Full-time,LinkedIn,5.2,5,SQL;Docker;Node.js,2026-01-20
+J1269,Data Scientist,Mid-size,Hyderabad,Full-time,LinkedIn,6.3,2,Statistics;TensorFlow;Python,2026-04-02
+J1270,Backend Developer,Startup,Bengaluru,Full-time,LinkedIn,7.6,2,SQL;Python;Node.js;Docker,2026-08-02
+J1271,UI/UX Designer,Startup,Pune,Internship,LinkedIn,3.1,1,Prototyping;Adobe XD;Wireframing,2026-04-26
+J1272,Full Stack Developer,Enterprise,Mumbai,Contract,LinkedIn,12.0,1,MongoDB;TypeScript,2026-06-25
+J1273,UI/UX Designer,Mid-size,Bengaluru,Part-time,LinkedIn,7.6,4,Wireframing;Adobe XD,2026-02-02
+J1274,Frontend Developer,Startup,Hyderabad,Contract,LinkedIn,5.7,1,React;HTML;Redux;JavaScript;TypeScript,2026-04-08
+J1275,Full Stack Developer,Enterprise,Pune,Full-time,LinkedIn,7.9,1,MongoDB;AWS;React;Node.js;SQL,2026-05-08
+J1276,Data Analyst,Mid-size,Remote,Full-time,LinkedIn,3.9,3,Power BI;Python;SQL;Pandas;Tableau,2026-05-20
+J1277,UI/UX Designer,Enterprise,Remote,Part-time,LinkedIn,6.3,2,Adobe XD;Figma;Wireframing;Prototyping,2026-05-01
+J1278,Full Stack Developer,Startup,Bengaluru,Full-time,Naukri,7.5,0,MongoDB;SQL;Node.js,2026-08-28
+J1279,Data Scientist,Enterprise,Hyderabad,Full-time,LinkedIn,6.9,1,Python;TensorFlow;Pandas;Statistics;Machine Learning,2026-02-18
+J1280,Data Scientist,Mid-size,Delhi NCR,Contract,Naukri,7.6,0,Machine Learning;TensorFlow;Statistics,2026-02-21
+J1281,UI/UX Designer,Startup,Hyderabad,Part-time,LinkedIn,3.5,2,User Research;Prototyping;Figma;Wireframing,2026-01-29
+J1282,UI/UX Designer,Enterprise,Hyderabad,Internship,Wellfound,7.4,3,Prototyping;Adobe XD;Wireframing;User Research;Figma,2026-06-13
+J1283,Backend Developer,Enterprise,Remote,Full-time,Indeed,10.8,0,Python;AWS,2026-02-15
+J1284,Full Stack Developer,Enterprise,Pune,Part-time,LinkedIn,10.2,1,SQL;MongoDB;Node.js,2026-08-24
+J1285,DevOps Engineer,Enterprise,Mumbai,Internship,LinkedIn,5.1,1,Kubernetes;Docker,2026-08-15
+J1286,Full Stack Developer,Enterprise,Bengaluru,Full-time,Naukri,11.8,4,TypeScript;MongoDB,2026-03-07
+J1287,Full Stack Developer,Startup,Chennai,Internship,Wellfound,10.3,1,Node.js;TypeScript;React;AWS;MongoDB,2026-05-20
+J1288,Frontend Developer,Startup,Bengaluru,Full-time,LinkedIn,7.4,0,TypeScript;HTML;Redux;CSS,2026-03-23
+J1289,DevOps Engineer,Enterprise,Bengaluru,Contract,LinkedIn,5.7,1,Kubernetes;CI/CD;AWS;Linux;Terraform,2026-01-08
+J1290,Full Stack Developer,Startup,Hyderabad,Full-time,Wellfound,5.4,0,TypeScript;React,2026-03-02
+J1291,Full Stack Developer,Startup,Bengaluru,Full-time,Wellfound,11.8,5,React;SQL;TypeScript;Node.js;AWS,2026-07-30
+J1292,DevOps Engineer,Enterprise,Pune,Full-time,Indeed,7.6,5,Docker;AWS,2026-03-09
+J1293,Data Analyst,Startup,Chennai,Full-time,LinkedIn,6.5,0,SQL;Excel;Tableau;Power BI,2026-04-30
+J1294,Backend Developer,Mid-size,Chennai,Full-time,Wellfound,10.1,5,AWS;Python,2026-05-22
+J1295,Data Analyst,Mid-size,Remote,Internship,Wellfound,7.5,1,SQL;Tableau,2026-03-18
+J1296,Backend Developer,Startup,Bengaluru,Full-time,Indeed,7.0,1,REST APIs;AWS;SQL,2026-02-12
+J1297,Full Stack Developer,Startup,Hyderabad,Full-time,LinkedIn,6.9,5,React;AWS,2026-08-22
+J1298,Data Scientist,Startup,Hyderabad,Full-time,Wellfound,11.1,0,Python;TensorFlow;Statistics;Machine Learning;SQL,2026-05-14
+J1299,Data Analyst,Enterprise,Pune,Full-time,LinkedIn,4.4,1,Power BI;Pandas;Tableau;SQL;Python,2026-03-09
+J1300,Full Stack Developer,Startup,Delhi NCR,Part-time,Indeed,5.1,2,SQL;MongoDB;TypeScript,2026-06-26
+J1301,UI/UX Designer,Startup,Bengaluru,Part-time,Wellfound,7.1,2,Wireframing;Figma,2026-06-28
+J1302,Backend Developer,Mid-size,Delhi NCR,Internship,Indeed,9.7,1,Node.js;SQL;AWS,2026-04-24
+J1303,Data Analyst,Startup,Bengaluru,Contract,Naukri,4.2,5,SQL;Excel,2026-02-04
+J1304,DevOps Engineer,Mid-size,Chennai,Full-time,Wellfound,5.9,0,Kubernetes;AWS;CI/CD;Linux,2026-02-20
+J1305,Data Analyst,Enterprise,Pune,Full-time,Naukri,4.3,0,Excel;SQL;Tableau;Power BI;Pandas,2026-02-15
+J1306,UI/UX Designer,Startup,Mumbai,Full-time,LinkedIn,5.0,0,Figma;Wireframing;Adobe XD,2026-05-27
+J1307,DevOps Engineer,Startup,Bengaluru,Internship,LinkedIn,11.8,2,CI/CD;Terraform,2026-02-14
+J1308,UI/UX Designer,Mid-size,Bengaluru,Full-time,Wellfound,6.1,0,Figma;User Research;Wireframing;Prototyping;Adobe XD,2026-03-31
+J1309,DevOps Engineer,Startup,Hyderabad,Full-time,LinkedIn,6.9,2,Kubernetes;Terraform;Linux;Docker;CI/CD,2026-01-28
+J1310,DevOps Engineer,Enterprise,Bengaluru,Full-time,LinkedIn,11.3,4,CI/CD;Docker;Kubernetes,2026-03-23
+J1311,Full Stack Developer,Enterprise,Pune,Internship,Indeed,9.7,2,Node.js;AWS;MongoDB,2026-07-05
+J1312,Full Stack Developer,Startup,Delhi NCR,Internship,Wellfound,11.4,3,MongoDB;React;Node.js;TypeScript;AWS,2026-01-25
+J1313,DevOps Engineer,Mid-size,Delhi NCR,Full-time,LinkedIn,7.1,0,CI/CD;Docker;Linux;Kubernetes,2026-08-12
+J1314,Backend Developer,Enterprise,Hyderabad,Full-time,LinkedIn,10.0,1,Python;SQL,2026-05-09
+J1315,Data Analyst,Startup,Hyderabad,Internship,Naukri,5.4,1,Excel;SQL;Power BI;Python;Pandas,2026-05-26
+J1316,Backend Developer,Enterprise,Delhi NCR,Full-time,Naukri,4.6,4,PostgreSQL;Docker;REST APIs,2026-07-14
+J1317,Data Analyst,Startup,Bengaluru,Full-time,LinkedIn,3.1,3,Power BI;Python;SQL;Excel;Tableau,2026-05-03
+J1318,DevOps Engineer,Startup,Delhi NCR,Full-time,LinkedIn,7.7,2,Kubernetes;Docker;Linux,2026-07-07
+J1319,Full Stack Developer,Enterprise,Pune,Full-time,Wellfound,9.8,1,SQL;TypeScript;MongoDB;React;AWS,2026-03-16
+J1320,UI/UX Designer,Startup,Bengaluru,Part-time,LinkedIn,3.1,1,Figma;User Research,2026-04-14
+J1321,DevOps Engineer,Mid-size,Chennai,Full-time,Wellfound,5.3,0,Terraform;Docker,2026-06-16
+J1322,DevOps Engineer,Startup,Mumbai,Full-time,LinkedIn,8.8,5,Terraform;Kubernetes,2026-08-03
+J1323,Backend Developer,Mid-size,Hyderabad,Full-time,Wellfound,8.4,1,Docker;Node.js,2026-06-27
+J1324,Data Scientist,Mid-size,Bengaluru,Full-time,LinkedIn,6.6,2,TensorFlow;Machine Learning,2026-07-04
+J1325,Full Stack Developer,Mid-size,Bengaluru,Full-time,Indeed,9.8,5,SQL;Node.js;React;TypeScript;MongoDB,2026-06-30
+J1326,Frontend Developer,Startup,Remote,Internship,LinkedIn,7.3,2,Redux;JavaScript;CSS;TypeScript;Tailwind,2026-08-02
+J1327,Data Analyst,Startup,Chennai,Contract,LinkedIn,6.4,4,Pandas;SQL,2026-01-13
+J1328,Frontend Developer,Startup,Chennai,Full-time,LinkedIn,5.1,5,HTML;TypeScript,2026-08-06
+J1329,DevOps Engineer,Mid-size,Bengaluru,Full-time,Indeed,6.9,4,Terraform;CI/CD;Linux;AWS,2026-01-24
+J1330,UI/UX Designer,Startup,Delhi NCR,Full-time,Indeed,3.8,4,Adobe XD;Wireframing,2026-02-12
+J1331,UI/UX Designer,Startup,Mumbai,Internship,Wellfound,7.3,1,Wireframing;Adobe XD;Figma;Prototyping;User Research,2026-05-26
+J1332,Frontend Developer,Enterprise,Hyderabad,Internship,Naukri,7.6,1,Redux;TypeScript;HTML;React,2026-01-17
+J1333,Data Analyst,Mid-size,Hyderabad,Full-time,LinkedIn,7.2,0,SQL;Python;Tableau,2026-06-19
+J1334,UI/UX Designer,Startup,Delhi NCR,Full-time,LinkedIn,4.4,1,Adobe XD;Wireframing;Prototyping,2026-05-07
+J1335,UI/UX Designer,Mid-size,Hyderabad,Full-time,LinkedIn,5.5,3,Figma;Wireframing,2026-03-02
+J1336,DevOps Engineer,Startup,Hyderabad,Full-time,Wellfound,10.8,2,Linux;Terraform,2026-06-17
+J1337,Backend Developer,Mid-size,Hyderabad,Full-time,LinkedIn,7.2,5,PostgreSQL;REST APIs;SQL;Docker;Node.js,2026-06-17
+J1338,Frontend Developer,Startup,Hyderabad,Contract,Indeed,4.8,3,Redux;React;Tailwind,2026-07-14
+J1339,Backend Developer,Enterprise,Delhi NCR,Full-time,LinkedIn,5.4,0,REST APIs;Docker;Python,2026-05-07
+J1340,Data Analyst,Enterprise,Hyderabad,Internship,LinkedIn,6.2,0,Tableau;Pandas;Python,2026-07-31
+J1341,Data Analyst,Enterprise,Remote,Contract,Wellfound,5.5,1,Pandas;Power BI,2026-01-02
+J1342,Backend Developer,Startup,Hyderabad,Full-time,Indeed,7.5,4,Docker;AWS;Python,2026-07-07
+J1343,Full Stack Developer,Mid-size,Pune,Full-time,Wellfound,9.9,2,MongoDB;AWS;SQL;TypeScript,2026-04-12
+J1344,DevOps Engineer,Startup,Bengaluru,Internship,Naukri,11.4,1,Terraform;Kubernetes;AWS,2026-08-28
+J1345,DevOps Engineer,Enterprise,Pune,Full-time,Naukri,7.9,2,CI/CD;Docker;Linux;Terraform,2026-01-30
+J1346,Data Analyst,Enterprise,Bengaluru,Full-time,Naukri,7.9,2,Python;SQL,2026-02-07
+J1347,DevOps Engineer,Startup,Delhi NCR,Full-time,Naukri,5.7,1,Terraform;Linux;CI/CD;Docker,2026-07-20
+J1348,Data Scientist,Enterprise,Mumbai,Part-time,LinkedIn,12.7,3,TensorFlow;Python;Statistics;SQL,2026-07-20
+J1349,Full Stack Developer,Startup,Remote,Internship,Wellfound,10.3,1,MongoDB;Node.js;SQL;AWS;React,2026-02-21
+J1350,DevOps Engineer,Startup,Delhi NCR,Full-time,LinkedIn,7.0,2,Kubernetes;Terraform;AWS,2026-01-20
+J1351,Frontend Developer,Enterprise,Remote,Full-time,Indeed,6.6,2,CSS;HTML;Redux;TypeScript;React,2026-03-26
+J1352,UI/UX Designer,Enterprise,Bengaluru,Full-time,LinkedIn,5.5,4,Adobe XD;Wireframing;Figma;Prototyping,2026-07-01
+J1353,Backend Developer,Enterprise,Hyderabad,Full-time,LinkedIn,9.3,5,AWS;PostgreSQL;Node.js,2026-08-15
+J1354,Frontend Developer,Mid-size,Bengaluru,Full-time,Indeed,4.5,0,Redux;TypeScript;CSS;React,2026-06-21
+J1355,Data Analyst,Startup,Remote,Contract,LinkedIn,7.0,5,Tableau;SQL;Excel;Pandas,2026-03-07
+J1356,Backend Developer,Startup,Bengaluru,Part-time,Wellfound,4.1,0,Python;PostgreSQL,2026-03-24
+J1357,DevOps Engineer,Enterprise,Hyderabad,Full-time,Wellfound,9.9,4,Terraform;Docker;Kubernetes,2026-07-18
+J1358,Frontend Developer,Startup,Bengaluru,Full-time,Naukri,6.3,1,TypeScript;CSS;Redux;HTML,2026-04-28
+J1359,DevOps Engineer,Mid-size,Bengaluru,Full-time,Wellfound,9.5,0,Terraform;Linux;Docker;AWS;CI/CD,2026-04-14
+J1360,Full Stack Developer,Mid-size,Delhi NCR,Full-time,LinkedIn,10.4,5,TypeScript;MongoDB,2026-08-26
+J1361,UI/UX Designer,Mid-size,Bengaluru,Full-time,Naukri,7.0,2,Prototyping;User Research,2026-06-19
+J1362,DevOps Engineer,Startup,Pune,Full-time,LinkedIn,5.0,4,Linux;Terraform;Docker;Kubernetes,2026-08-16
+J1363,Backend Developer,Startup,Hyderabad,Full-time,Wellfound,5.1,1,AWS;SQL;Python;Node.js,2026-07-11
+J1364,Backend Developer,Enterprise,Pune,Full-time,LinkedIn,4.5,0,Python;PostgreSQL,2026-06-21
+J1365,Data Scientist,Mid-size,Bengaluru,Full-time,LinkedIn,10.0,1,SQL;Pandas;TensorFlow;Machine Learning,2026-05-05
+J1366,Data Scientist,Enterprise,Mumbai,Full-time,LinkedIn,7.5,4,Machine Learning;Python;SQL;TensorFlow,2026-06-18
+J1367,UI/UX Designer,Mid-size,Chennai,Full-time,Naukri,7.4,5,Wireframing;User Research;Prototyping;Adobe XD;Figma,2026-02-26
+J1368,Backend Developer,Mid-size,Chennai,Full-time,Wellfound,5.8,0,PostgreSQL;Node.js,2026-06-15
+J1369,Frontend Developer,Enterprise,Mumbai,Internship,LinkedIn,3.2,2,HTML;Tailwind,2026-08-06
+J1370,Data Analyst,Mid-size,Hyderabad,Contract,Wellfound,7.3,1,Tableau;Power BI;SQL,2026-06-17
+J1371,Data Analyst,Enterprise,Bengaluru,Part-time,Indeed,6.4,1,Tableau;Python,2026-04-04
+J1372,Backend Developer,Enterprise,Delhi NCR,Part-time,LinkedIn,9.3,1,Node.js;SQL;PostgreSQL,2026-05-25
+J1373,Backend Developer,Enterprise,Remote,Full-time,Wellfound,7.2,0,Node.js;PostgreSQL;SQL,2026-01-11
+J1374,Frontend Developer,Enterprise,Bengaluru,Full-time,LinkedIn,6.9,3,HTML;Redux;React;TypeScript,2026-06-30
+J1375,Data Analyst,Enterprise,Hyderabad,Internship,LinkedIn,7.0,0,Power BI;Python;Tableau,2026-08-21
+J1376,Backend Developer,Enterprise,Mumbai,Full-time,LinkedIn,6.5,0,PostgreSQL;Python,2026-02-28
+J1377,Data Analyst,Enterprise,Bengaluru,Full-time,Wellfound,6.0,4,SQL;Python;Pandas;Tableau,2026-07-27
+J1378,Data Scientist,Startup,Mumbai,Full-time,Wellfound,5.4,2,Machine Learning;TensorFlow;Pandas,2026-06-01
+J1379,Data Scientist,Enterprise,Delhi NCR,Contract,Indeed,6.7,5,Pandas;Machine Learning,2026-05-25
+J1380,Backend Developer,Enterprise,Bengaluru,Full-time,Naukri,8.4,2,Python;PostgreSQL;SQL;Docker;AWS,2026-08-01
+J1381,Data Scientist,Mid-size,Hyderabad,Full-time,LinkedIn,11.9,4,Machine Learning;TensorFlow;Python,2026-01-18
+J1382,Backend Developer,Enterprise,Pune,Full-time,Wellfound,4.9,0,REST APIs;PostgreSQL,2026-05-02
+J1383,DevOps Engineer,Mid-size,Chennai,Internship,Wellfound,11.6,5,CI/CD;AWS;Docker;Kubernetes;Terraform,2026-04-21
+J1384,Full Stack Developer,Startup,Bengaluru,Contract,Wellfound,6.3,0,AWS;MongoDB;React,2026-05-03
+J1385,Data Scientist,Enterprise,Bengaluru,Internship,Wellfound,5.9,4,Statistics;TensorFlow;SQL;Machine Learning;Pandas,2026-01-02
+J1386,Data Scientist,Enterprise,Hyderabad,Full-time,Wellfound,9.5,1,SQL;TensorFlow;Pandas;Machine Learning,2026-04-04
+J1387,Full Stack Developer,Enterprise,Hyderabad,Full-time,Indeed,5.8,1,TypeScript;Node.js;React;MongoDB,2026-05-28
+J1388,Data Scientist,Enterprise,Mumbai,Internship,LinkedIn,8.1,0,Python;Machine Learning;Pandas;SQL,2026-04-13
+J1389,Data Analyst,Mid-size,Bengaluru,Full-time,LinkedIn,4.9,4,Power BI;Pandas,2026-01-23
+J1390,Full Stack Developer,Startup,Mumbai,Full-time,LinkedIn,9.6,2,Node.js;React,2026-07-02
+J1391,UI/UX Designer,Enterprise,Bengaluru,Full-time,LinkedIn,3.0,1,Figma;User Research;Prototyping,2026-06-03
+J1392,Full Stack Developer,Mid-size,Mumbai,Full-time,Naukri,5.5,0,AWS;SQL;MongoDB;Node.js;TypeScript,2026-06-21
+J1393,Backend Developer,Mid-size,Remote,Full-time,LinkedIn,6.8,0,AWS;Node.js;REST APIs,2026-06-05
+J1394,Full Stack Developer,Enterprise,Remote,Contract,Naukri,9.0,5,TypeScript;AWS,2026-03-29
+J1395,Data Analyst,Mid-size,Remote,Full-time,Wellfound,5.9,0,Tableau;SQL;Excel,2026-07-17
+J1396,Frontend Developer,Enterprise,Delhi NCR,Internship,Wellfound,5.1,0,Redux;TypeScript;JavaScript,2026-04-08
+J1397,Full Stack Developer,Enterprise,Delhi NCR,Full-time,Wellfound,6.2,3,SQL;Node.js;MongoDB;React;TypeScript,2026-01-24
+J1398,Data Analyst,Startup,Delhi NCR,Contract,LinkedIn,4.0,1,Power BI;Excel;Python,2026-07-08
+J1399,UI/UX Designer,Startup,Mumbai,Full-time,Wellfound,6.8,0,Wireframing;User Research,2026-01-28
+J1400,Data Scientist,Enterprise,Chennai,Full-time,Indeed,12.3,2,Pandas;Machine Learning;TensorFlow;Python;Statistics,2026-03-22
+J1401,Data Analyst,Enterprise,Hyderabad,Contract,Naukri,5.3,0,Pandas;Power BI,2026-08-29
+J1402,Data Analyst,Startup,Mumbai,Full-time,LinkedIn,4.8,2,Python;Power BI,2026-03-22
+J1403,Full Stack Developer,Mid-size,Remote,Full-time,LinkedIn,8.0,4,MongoDB;SQL;AWS;Node.js,2026-03-02
+J1404,Full Stack Developer,Enterprise,Bengaluru,Full-time,LinkedIn,5.7,2,Node.js;AWS;TypeScript,2026-04-26
+J1405,UI/UX Designer,Startup,Chennai,Internship,Wellfound,3.0,4,Wireframing;Prototyping;User Research,2026-04-08
+J1406,Data Scientist,Mid-size,Hyderabad,Full-time,Wellfound,8.2,1,Python;Machine Learning;SQL;TensorFlow,2026-05-17
+J1407,UI/UX Designer,Mid-size,Delhi NCR,Full-time,LinkedIn,5.8,2,User Research;Figma,2026-06-11
+J1408,Data Analyst,Enterprise,Remote,Full-time,Wellfound,6.2,1,Excel;Pandas;Power BI;Tableau,2026-02-01
+J1409,Data Scientist,Startup,Hyderabad,Full-time,Wellfound,6.2,1,Statistics;SQL;Pandas;TensorFlow;Machine Learning,2026-05-05
+J1410,UI/UX Designer,Startup,Bengaluru,Full-time,LinkedIn,4.5,2,Adobe XD;Wireframing,2026-08-21
+J1411,Full Stack Developer,Mid-size,Delhi NCR,Full-time,Wellfound,6.2,0,Node.js;MongoDB;SQL;TypeScript;React,2026-08-16
+J1412,Backend Developer,Startup,Bengaluru,Part-time,Wellfound,4.4,4,AWS;Node.js;PostgreSQL;SQL;Docker,2026-02-12
+J1413,Backend Developer,Mid-size,Bengaluru,Internship,Wellfound,4.9,1,Node.js;REST APIs;SQL;AWS;Python,2026-01-22
+J1414,Data Analyst,Enterprise,Hyderabad,Part-time,Naukri,3.9,5,Pandas;Power BI;Tableau;Excel,2026-08-11
+J1415,DevOps Engineer,Mid-size,Pune,Full-time,LinkedIn,7.2,4,AWS;Kubernetes;Terraform;Docker,2026-06-13
+J1416,Frontend Developer,Mid-size,Bengaluru,Full-time,Naukri,6.0,5,TypeScript;React;CSS,2026-05-14
+J1417,UI/UX Designer,Startup,Pune,Full-time,Indeed,5.2,1,Prototyping;Wireframing;Adobe XD,2026-03-16
+J1418,Backend Developer,Mid-size,Mumbai,Full-time,Naukri,8.3,2,SQL;PostgreSQL,2026-03-09
+J1419,DevOps Engineer,Mid-size,Bengaluru,Full-time,LinkedIn,5.8,5,Linux;CI/CD;AWS;Terraform,2026-05-17
+J1420,Data Scientist,Mid-size,Bengaluru,Full-time,Wellfound,6.5,0,SQL;Statistics;Machine Learning,2026-05-06
+J1421,DevOps Engineer,Startup,Bengaluru,Full-time,LinkedIn,7.9,5,AWS;CI/CD,2026-04-23
+J1422,DevOps Engineer,Mid-size,Bengaluru,Internship,LinkedIn,6.9,4,Docker;Linux,2026-07-22
+J1423,Data Analyst,Mid-size,Chennai,Contract,LinkedIn,6.8,1,Tableau;Pandas;Python,2026-02-16
+J1424,DevOps Engineer,Mid-size,Delhi NCR,Full-time,Naukri,6.5,4,Terraform;AWS;Linux,2026-01-09
+J1425,Backend Developer,Enterprise,Remote,Full-time,LinkedIn,8.5,1,SQL;Node.js,2026-06-11
+J1426,UI/UX Designer,Startup,Bengaluru,Full-time,LinkedIn,7.0,0,Wireframing;Prototyping;Figma,2026-06-20
+J1427,Frontend Developer,Enterprise,Mumbai,Full-time,LinkedIn,3.9,0,Redux;HTML;TypeScript;React;CSS,2026-05-29
+J1428,Full Stack Developer,Enterprise,Pune,Full-time,Wellfound,7.2,3,TypeScript;Node.js;React,2026-06-15
+J1429,DevOps Engineer,Enterprise,Bengaluru,Contract,Wellfound,8.1,2,Linux;CI/CD;Kubernetes;AWS,2026-04-07
+J1430,Backend Developer,Mid-size,Delhi NCR,Full-time,Naukri,10.4,1,Node.js;AWS;Python;Docker,2026-05-20
+J1431,Full Stack Developer,Enterprise,Hyderabad,Full-time,Wellfound,7.7,1,React;AWS;SQL;TypeScript,2026-07-29
+J1432,Backend Developer,Enterprise,Remote,Internship,LinkedIn,8.8,1,AWS;SQL,2026-03-24
+J1433,Full Stack Developer,Startup,Bengaluru,Full-time,LinkedIn,11.6,1,React;Node.js;MongoDB;AWS,2026-04-15
+J1434,Backend Developer,Enterprise,Mumbai,Full-time,Wellfound,8.4,2,Node.js;SQL,2026-01-26
+J1435,Backend Developer,Startup,Remote,Full-time,Wellfound,10.2,0,Docker;PostgreSQL,2026-06-05
+J1436,Frontend Developer,Mid-size,Delhi NCR,Full-time,Wellfound,6.2,0,Tailwind;TypeScript;React;JavaScript;Redux,2026-04-03
+J1437,Frontend Developer,Enterprise,Hyderabad,Full-time,Naukri,6.4,1,HTML;Redux;Tailwind,2026-01-26
+J1438,Data Analyst,Enterprise,Mumbai,Full-time,Naukri,5.1,0,Python;Pandas,2026-07-11
+J1439,Data Scientist,Enterprise,Bengaluru,Part-time,Wellfound,7.8,3,TensorFlow;SQL;Statistics;Machine Learning,2026-04-13
+J1440,UI/UX Designer,Enterprise,Hyderabad,Full-time,Wellfound,4.9,2,User Research;Wireframing;Prototyping;Adobe XD;Figma,2026-06-12
+J1441,DevOps Engineer,Enterprise,Bengaluru,Full-time,Indeed,5.0,1,Kubernetes;AWS;Docker;Linux,2026-01-09
+J1442,UI/UX Designer,Startup,Bengaluru,Full-time,LinkedIn,4.8,1,Prototyping;User Research;Adobe XD,2026-03-12
+J1443,Frontend Developer,Enterprise,Remote,Internship,Naukri,7.8,1,CSS;Redux;HTML;React;TypeScript,2026-05-27
+J1444,DevOps Engineer,Enterprise,Chennai,Full-time,Naukri,11.5,3,AWS;CI/CD,2026-03-18
+J1445,Data Analyst,Startup,Delhi NCR,Contract,Indeed,6.2,4,SQL;Excel,2026-08-27
+J1446,Data Scientist,Enterprise,Pune,Full-time,Naukri,6.2,4,Pandas;TensorFlow;Python;Statistics,2026-01-11
+J1447,Data Analyst,Startup,Bengaluru,Full-time,Wellfound,3.2,4,Excel;SQL;Tableau;Pandas;Python,2026-03-16
+J1448,UI/UX Designer,Startup,Pune,Full-time,LinkedIn,5.9,1,Prototyping;Figma;Adobe XD,2026-06-28
+J1449,UI/UX Designer,Enterprise,Remote,Full-time,Naukri,5.1,3,Prototyping;User Research;Adobe XD;Figma,2026-04-21
+J1450,UI/UX Designer,Mid-size,Mumbai,Part-time,Wellfound,3.7,0,Prototyping;Adobe XD;User Research,2026-03-20
+J1451,Full Stack Developer,Startup,Delhi NCR,Full-time,Wellfound,6.0,2,React;SQL,2026-02-09
+J1452,DevOps Engineer,Mid-size,Pune,Full-time,LinkedIn,8.8,1,Linux;Terraform,2026-07-25
+J1453,UI/UX Designer,Enterprise,Delhi NCR,Full-time,Naukri,3.1,0,User Research;Prototyping;Figma;Wireframing;Adobe XD,2026-03-08
+J1454,UI/UX Designer,Startup,Pune,Part-time,LinkedIn,6.3,3,Figma;Adobe XD;Prototyping;User Research,2026-06-28
+J1455,Backend Developer,Mid-size,Pune,Full-time,LinkedIn,5.4,5,AWS;PostgreSQL,2026-04-08
+J1456,Frontend Developer,Enterprise,Hyderabad,Full-time,Naukri,3.1,3,TypeScript;Redux;Tailwind,2026-01-11
+J1457,Backend Developer,Startup,Mumbai,Contract,Indeed,9.7,0,AWS;SQL;Python;REST APIs,2026-05-09
+J1458,Full Stack Developer,Enterprise,Bengaluru,Internship,Wellfound,9.7,1,TypeScript;Node.js;AWS;MongoDB;SQL,2026-08-18
+J1459,Data Scientist,Enterprise,Bengaluru,Full-time,Wellfound,10.5,1,Machine Learning;SQL;Statistics;Pandas;Python,2026-03-26
+J1460,DevOps Engineer,Mid-size,Bengaluru,Full-time,Naukri,6.3,1,Terraform;Docker;AWS,2026-08-27
+J1461,Data Analyst,Mid-size,Delhi NCR,Contract,Wellfound,6.7,1,Python;SQL;Pandas;Power BI,2026-04-16
+J1462,Frontend Developer,Enterprise,Pune,Full-time,LinkedIn,7.1,3,React;Redux;CSS;JavaScript,2026-07-15
+J1463,Data Scientist,Enterprise,Mumbai,Full-time,LinkedIn,8.8,1,Machine Learning;Statistics;Python;TensorFlow;Pandas,2026-08-05
+J1464,Full Stack Developer,Enterprise,Mumbai,Full-time,LinkedIn,6.2,5,AWS;TypeScript;SQL,2026-04-16
+J1465,UI/UX Designer,Mid-size,Hyderabad,Full-time,Naukri,4.9,3,Wireframing;Figma;User Research,2026-04-28
+J1466,Frontend Developer,Startup,Chennai,Full-time,Wellfound,8.9,0,HTML;CSS;Tailwind;React;Redux,2026-04-26
+J1467,Full Stack Developer,Mid-size,Delhi NCR,Full-time,LinkedIn,7.1,0,MongoDB;AWS;Node.js;TypeScript;SQL,2026-04-23
+J1468,Frontend Developer,Startup,Delhi NCR,Part-time,Naukri,3.8,4,TypeScript;CSS,2026-07-04
+J1469,Frontend Developer,Enterprise,Remote,Contract,Indeed,3.5,3,Redux;Tailwind;JavaScript;React;CSS,2026-02-15
+J1470,Frontend Developer,Enterprise,Hyderabad,Full-time,LinkedIn,7.7,1,CSS;HTML;Tailwind;React;Redux,2026-06-30
+J1471,Full Stack Developer,Startup,Chennai,Full-time,Naukri,7.9,2,MongoDB;TypeScript;SQL,2026-05-25
+J1472,DevOps Engineer,Startup,Remote,Full-time,Naukri,5.1,5,CI/CD;Linux,2026-02-16
+J1473,UI/UX Designer,Startup,Bengaluru,Full-time,Wellfound,5.2,0,Prototyping;User Research;Wireframing;Figma;Adobe XD,2026-01-02
+J1474,Backend Developer,Enterprise,Hyderabad,Full-time,LinkedIn,8.0,2,SQL;Node.js,2026-02-07
+J1475,Frontend Developer,Startup,Bengaluru,Full-time,Naukri,7.2,1,CSS;Redux;HTML;TypeScript;React,2026-01-28
+J1476,Frontend Developer,Mid-size,Hyderabad,Full-time,LinkedIn,5.6,0,TypeScript;CSS;JavaScript;React,2026-07-16
+J1477,DevOps Engineer,Mid-size,Pune,Full-time,Naukri,9.3,0,Linux;Terraform;Docker;Kubernetes,2026-08-09
+J1478,DevOps Engineer,Mid-size,Mumbai,Full-time,Wellfound,12.0,3,Kubernetes;Linux;CI/CD;AWS,2026-06-26
+J1479,DevOps Engineer,Mid-size,Chennai,Contract,LinkedIn,7.0,1,Docker;Terraform;Linux;Kubernetes;CI/CD,2026-06-11
+J1480,DevOps Engineer,Enterprise,Remote,Full-time,LinkedIn,8.9,1,Docker;Kubernetes;AWS,2026-08-06
+J1481,Full Stack Developer,Mid-size,Hyderabad,Full-time,Naukri,5.8,3,SQL;TypeScript,2026-07-22
+J1482,DevOps Engineer,Startup,Bengaluru,Contract,Indeed,8.4,5,Docker;Kubernetes,2026-05-26
+J1483,Data Analyst,Enterprise,Remote,Full-time,Naukri,7.6,0,Power BI;Excel;Pandas;Tableau;SQL,2026-02-09
+J1484,Backend Developer,Mid-size,Bengaluru,Full-time,Naukri,6.4,4,PostgreSQL;AWS;Python;Docker,2026-05-28
+J1485,Backend Developer,Mid-size,Delhi NCR,Full-time,LinkedIn,6.9,5,Python;SQL,2026-06-02
+J1486,Data Analyst,Startup,Pune,Full-time,LinkedIn,3.2,1,SQL;Tableau;Pandas;Python,2026-08-01
+J1487,Data Scientist,Mid-size,Remote,Internship,Wellfound,11.2,1,Python;TensorFlow;Machine Learning,2026-02-09
+J1488,Backend Developer,Mid-size,Hyderabad,Contract,LinkedIn,6.2,0,PostgreSQL;AWS,2026-07-05
+J1489,UI/UX Designer,Mid-size,Remote,Full-time,Naukri,6.7,0,Adobe XD;User Research;Wireframing;Figma,2026-01-23
+J1490,Full Stack Developer,Mid-size,Bengaluru,Full-time,Wellfound,5.8,1,Node.js;SQL;React,2026-02-21
+J1491,Frontend Developer,Startup,Pune,Full-time,LinkedIn,8.7,2,HTML;JavaScript,2026-06-09
+J1492,Backend Developer,Enterprise,Remote,Full-time,LinkedIn,4.2,0,Node.js;Docker;REST APIs;AWS,2026-01-19
+J1493,Data Analyst,Enterprise,Mumbai,Full-time,Naukri,6.5,3,Excel;Pandas;Python,2026-04-11
+J1494,DevOps Engineer,Mid-size,Pune,Full-time,Naukri,9.9,0,CI/CD;AWS,2026-07-14
+J1495,DevOps Engineer,Mid-size,Bengaluru,Full-time,Indeed,9.3,3,CI/CD;Kubernetes;AWS;Linux;Terraform,2026-06-14
+J1496,Data Analyst,Mid-size,Bengaluru,Full-time,Naukri,4.4,3,Power BI;Pandas,2026-01-08
+J1497,Backend Developer,Mid-size,Chennai,Internship,LinkedIn,8.5,2,AWS;Docker,2026-05-11
+J1498,Data Analyst,Startup,Mumbai,Full-time,Indeed,4.9,3,Python;Power BI;Tableau;Pandas;Excel,2026-06-01
+J1499,Data Scientist,Startup,Mumbai,Full-time,Indeed,9.6,5,Python;TensorFlow;Pandas,2026-06-27
+J1500,Full Stack Developer,Mid-size,Bengaluru,Part-time,LinkedIn,5.8,4,SQL;TypeScript,2026-05-23
+J1501,DevOps Engineer,Startup,Bengaluru,Full-time,Wellfound,10.3,0,Kubernetes;Terraform,2026-06-19
+J1502,Data Analyst,Mid-size,Mumbai,Full-time,LinkedIn,7.4,2,Power BI;Excel;Tableau;Pandas,2026-05-17
+J1503,Full Stack Developer,Enterprise,Remote,Full-time,LinkedIn,7.1,3,AWS;React,2026-01-23
+J1504,Frontend Developer,Startup,Chennai,Contract,LinkedIn,7.2,4,Redux;TypeScript;CSS;HTML,2026-06-30
+J1505,Data Analyst,Enterprise,Bengaluru,Full-time,Wellfound,7.2,3,Tableau;Python;Excel,2026-04-22
+J1506,UI/UX Designer,Startup,Bengaluru,Full-time,LinkedIn,7.4,4,Prototyping;Figma;Wireframing,2026-06-21
+J1507,DevOps Engineer,Mid-size,Remote,Internship,Indeed,9.4,5,Linux;CI/CD;Terraform;Kubernetes;AWS,2026-07-26
+J1508,Backend Developer,Enterprise,Bengaluru,Full-time,Naukri,9.0,2,Docker;AWS;PostgreSQL;SQL;Node.js,2026-02-17
+J1509,Frontend Developer,Enterprise,Hyderabad,Full-time,Indeed,3.5,2,CSS;HTML;React;Redux;Tailwind,2026-05-26
+J1510,Data Analyst,Enterprise,Mumbai,Internship,LinkedIn,3.3,3,Power BI;SQL,2026-06-11
+J1511,Data Analyst,Enterprise,Delhi NCR,Full-time,Indeed,7.0,2,Python;SQL;Excel;Tableau;Pandas,2026-04-27
+J1512,Frontend Developer,Enterprise,Bengaluru,Full-time,Indeed,7.9,0,TypeScript;CSS;React;JavaScript;Tailwind,2026-06-11
+J1513,Frontend Developer,Mid-size,Bengaluru,Full-time,Indeed,3.1,0,HTML;JavaScript;Tailwind;Redux,2026-08-06
+J1514,DevOps Engineer,Startup,Bengaluru,Internship,Wellfound,10.6,0,AWS;Docker;Kubernetes;Terraform,2026-04-25
+J1515,UI/UX Designer,Mid-size,Delhi NCR,Full-time,Wellfound,6.2,1,Adobe XD;User Research;Figma;Prototyping;Wireframing,2026-02-09
+J1516,Frontend Developer,Mid-size,Pune,Full-time,Indeed,8.5,1,CSS;Redux;Tailwind;HTML;JavaScript,2026-02-12
+J1517,Backend Developer,Startup,Bengaluru,Internship,LinkedIn,6.2,0,Node.js;AWS;SQL;Docker;PostgreSQL,2026-05-16
+J1518,DevOps Engineer,Mid-size,Bengaluru,Internship,LinkedIn,9.1,5,Terraform;Kubernetes;Linux;AWS,2026-08-08
+J1519,Full Stack Developer,Mid-size,Pune,Full-time,Naukri,5.1,0,AWS;React;TypeScript,2026-06-23
+J1520,Full Stack Developer,Mid-size,Bengaluru,Full-time,LinkedIn,11.6,1,AWS;React;MongoDB;TypeScript,2026-02-26
+J1521,UI/UX Designer,Mid-size,Mumbai,Contract,Wellfound,7.8,0,Prototyping;User Research;Adobe XD,2026-06-04
+J1522,Data Analyst,Enterprise,Pune,Part-time,Naukri,6.5,3,Excel;Python,2026-06-19
+J1523,UI/UX Designer,Startup,Hyderabad,Full-time,LinkedIn,7.8,2,Prototyping;Wireframing;Figma;Adobe XD,2026-01-19
+J1524,Backend Developer,Startup,Mumbai,Full-time,Wellfound,7.0,0,Docker;PostgreSQL;SQL;Node.js;REST APIs,2026-06-06
+J1525,Frontend Developer,Mid-size,Bengaluru,Full-time,Naukri,3.0,0,Redux;CSS;TypeScript;JavaScript,2026-01-19
+J1526,DevOps Engineer,Enterprise,Bengaluru,Internship,Naukri,8.3,4,Terraform;Docker;Kubernetes;Linux;CI/CD,2026-03-26
+J1527,DevOps Engineer,Startup,Pune,Part-time,LinkedIn,9.8,4,Docker;Terraform;AWS;CI/CD;Kubernetes,2026-07-29
+J1528,Frontend Developer,Mid-size,Mumbai,Full-time,LinkedIn,5.3,1,TypeScript;Redux;CSS;React;Tailwind,2026-08-04
+J1529,DevOps Engineer,Startup,Remote,Full-time,LinkedIn,5.2,0,Terraform;Linux;Kubernetes;CI/CD;AWS,2026-04-02
+J1530,Frontend Developer,Mid-size,Pune,Contract,Wellfound,9.0,0,TypeScript;React;Tailwind;Redux,2026-07-22
+J1531,Data Analyst,Enterprise,Mumbai,Full-time,Naukri,7.4,1,Pandas;Power BI;Python,2026-01-31
+J1532,Frontend Developer,Mid-size,Mumbai,Full-time,Indeed,3.3,1,React;JavaScript;Tailwind,2026-01-10
+J1533,Full Stack Developer,Mid-size,Mumbai,Contract,LinkedIn,10.7,0,TypeScript;AWS,2026-07-30
+J1534,UI/UX Designer,Startup,Chennai,Full-time,Naukri,7.9,4,User Research;Figma;Adobe XD,2026-06-07
+J1535,Data Scientist,Mid-size,Chennai,Internship,Naukri,9.7,3,Python;Statistics;SQL,2026-05-20
+J1536,Backend Developer,Startup,Delhi NCR,Full-time,Wellfound,10.5,0,Python;Node.js;AWS;Docker;PostgreSQL,2026-07-13
+J1537,Frontend Developer,Startup,Bengaluru,Full-time,LinkedIn,6.9,2,CSS;Redux;Tailwind;JavaScript;React,2026-08-14
+J1538,Backend Developer,Enterprise,Pune,Full-time,LinkedIn,8.8,1,PostgreSQL;Docker;AWS;Node.js,2026-06-13
+J1539,DevOps Engineer,Mid-size,Hyderabad,Full-time,LinkedIn,11.9,0,Linux;AWS;Kubernetes;CI/CD,2026-07-31
+J1540,UI/UX Designer,Mid-size,Bengaluru,Full-time,LinkedIn,7.2,5,Wireframing;Prototyping;Figma,2026-06-10
+J1541,DevOps Engineer,Startup,Mumbai,Full-time,Wellfound,7.3,5,Docker;Terraform,2026-08-25
+J1542,DevOps Engineer,Startup,Delhi NCR,Full-time,LinkedIn,11.3,5,Linux;Terraform;AWS,2026-01-14
+J1543,Data Analyst,Startup,Delhi NCR,Full-time,LinkedIn,6.7,1,Tableau;Python;SQL;Power BI,2026-02-20
+J1544,Data Scientist,Mid-size,Bengaluru,Part-time,Wellfound,8.1,1,Pandas;Machine Learning,2026-05-05
+J1545,DevOps Engineer,Startup,Hyderabad,Full-time,Wellfound,7.0,0,CI/CD;Terraform;Linux;Docker,2026-04-02
+J1546,UI/UX Designer,Mid-size,Mumbai,Internship,Wellfound,6.1,1,Adobe XD;Prototyping;Figma,2026-03-29
+J1547,Data Analyst,Startup,Mumbai,Contract,LinkedIn,6.7,1,Python;Excel;Tableau;Power BI;SQL,2026-08-08
+J1548,Data Scientist,Mid-size,Remote,Full-time,Wellfound,11.1,0,Pandas;TensorFlow,2026-02-08
+J1549,Data Analyst,Mid-size,Pune,Full-time,Naukri,6.5,4,Python;Pandas,2026-05-03
+J1550,Full Stack Developer,Enterprise,Remote,Full-time,Naukri,6.1,5,AWS;MongoDB;React,2026-03-17
+J1551,Data Analyst,Enterprise,Hyderabad,Internship,LinkedIn,5.3,0,Pandas;SQL;Tableau,2026-04-29
+J1552,DevOps Engineer,Mid-size,Hyderabad,Full-time,Indeed,8.8,1,Terraform;Docker,2026-03-27
+J1553,Data Scientist,Enterprise,Remote,Full-time,Indeed,7.9,0,Python;Pandas;SQL;Machine Learning,2026-08-14
+J1554,Data Scientist,Mid-size,Bengaluru,Full-time,LinkedIn,10.7,1,Machine Learning;SQL;Statistics;TensorFlow,2026-01-11
+J1555,Frontend Developer,Enterprise,Remote,Full-time,Indeed,4.3,1,TypeScript;Tailwind;Redux;CSS;JavaScript,2026-06-16
+J1556,Frontend Developer,Mid-size,Pune,Full-time,Naukri,5.8,2,CSS;HTML;TypeScript;React,2026-01-17
+J1557,Backend Developer,Startup,Bengaluru,Contract,LinkedIn,10.7,0,Python;SQL;Node.js;REST APIs;Docker,2026-08-17
+J1558,Backend Developer,Enterprise,Remote,Full-time,Wellfound,8.8,1,Docker;SQL;REST APIs,2026-08-12
+J1559,Data Analyst,Mid-size,Bengaluru,Full-time,Naukri,7.2,3,Tableau;Power BI,2026-07-08
+J1560,Full Stack Developer,Mid-size,Mumbai,Internship,Naukri,8.1,2,AWS;Node.js;SQL;React,2026-06-17
+J1561,UI/UX Designer,Mid-size,Hyderabad,Full-time,Naukri,3.7,2,Wireframing;Prototyping;User Research,2026-03-08
+J1562,Backend Developer,Startup,Remote,Contract,Naukri,8.7,1,Python;REST APIs;Node.js;AWS,2026-07-02
+J1563,Full Stack Developer,Mid-size,Bengaluru,Full-time,Wellfound,5.2,3,SQL;Node.js;MongoDB,2026-05-28
+J1564,Data Analyst,Enterprise,Hyderabad,Part-time,Wellfound,5.5,1,Tableau;Excel;Python,2026-05-19
+J1565,Frontend Developer,Enterprise,Delhi NCR,Full-time,LinkedIn,8.7,1,Tailwind;HTML;CSS;TypeScript,2026-07-09
+J1566,DevOps Engineer,Startup,Bengaluru,Full-time,LinkedIn,7.8,1,CI/CD;AWS;Docker;Kubernetes;Terraform,2026-01-29
+J1567,Data Scientist,Enterprise,Pune,Internship,Naukri,6.6,0,TensorFlow;Pandas;Python,2026-06-14
+J1568,Data Scientist,Mid-size,Hyderabad,Full-time,Indeed,12.3,3,Pandas;Machine Learning;Statistics,2026-04-11
+J1569,Full Stack Developer,Startup,Bengaluru,Full-time,Indeed,11.1,0,Node.js;TypeScript;AWS;MongoDB,2026-04-09
+J1570,Full Stack Developer,Enterprise,Remote,Full-time,Wellfound,5.6,1,SQL;TypeScript;MongoDB;React;Node.js,2026-02-11
+J1571,Frontend Developer,Enterprise,Remote,Full-time,Wellfound,7.3,1,JavaScript;Tailwind;CSS;TypeScript;HTML,2026-01-02
+J1572,Data Analyst,Enterprise,Hyderabad,Full-time,Wellfound,3.1,0,Python;Excel;Power BI;Tableau,2026-01-11
+J1573,UI/UX Designer,Startup,Mumbai,Contract,Wellfound,5.5,1,Figma;Adobe XD;Prototyping;User Research;Wireframing,2026-06-12
+J1574,Data Scientist,Enterprise,Pune,Full-time,LinkedIn,10.5,0,SQL;TensorFlow;Python;Machine Learning,2026-07-10
+J1575,Backend Developer,Startup,Hyderabad,Contract,LinkedIn,5.1,2,SQL;Docker,2026-05-29
+J1576,DevOps Engineer,Startup,Bengaluru,Full-time,Indeed,8.6,1,Docker;Linux;Kubernetes;AWS,2026-08-22
+J1577,Full Stack Developer,Enterprise,Delhi NCR,Full-time,Naukri,7.5,3,Node.js;React;MongoDB;SQL,2026-08-12
+J1578,Full Stack Developer,Mid-size,Hyderabad,Contract,LinkedIn,6.1,1,Node.js;AWS;React;MongoDB;SQL,2026-04-06
+J1579,Frontend Developer,Startup,Pune,Full-time,LinkedIn,7.9,3,JavaScript;Redux;TypeScript,2026-01-30
+J1580,Frontend Developer,Startup,Bengaluru,Internship,Naukri,4.8,1,JavaScript;React,2026-07-10
+J1581,Data Analyst,Startup,Bengaluru,Full-time,Wellfound,4.0,0,Pandas;Power BI,2026-06-26
+J1582,Data Scientist,Startup,Remote,Full-time,LinkedIn,5.1,0,Python;TensorFlow;Machine Learning;SQL;Statistics,2026-01-16
+J1583,Backend Developer,Startup,Bengaluru,Contract,Indeed,10.6,3,SQL;Python;AWS;PostgreSQL,2026-06-21
+J1584,Data Scientist,Startup,Chennai,Internship,Wellfound,10.7,2,Machine Learning;TensorFlow,2026-05-26
+J1585,Frontend Developer,Startup,Remote,Contract,Wellfound,7.2,1,CSS;Redux,2026-07-05
+J1586,Frontend Developer,Mid-size,Hyderabad,Full-time,Wellfound,7.6,3,React;CSS;Tailwind;JavaScript,2026-02-16
+J1587,Data Analyst,Enterprise,Bengaluru,Internship,LinkedIn,5.5,4,Excel;Tableau;Pandas;Power BI,2026-07-15
+J1588,UI/UX Designer,Enterprise,Hyderabad,Part-time,Wellfound,7.3,5,User Research;Prototyping;Figma,2026-04-24
+J1589,DevOps Engineer,Mid-size,Hyderabad,Full-time,LinkedIn,6.0,4,Terraform;Linux,2026-05-06
+J1590,Frontend Developer,Startup,Hyderabad,Full-time,LinkedIn,8.1,4,React;JavaScript;CSS,2026-07-09
+J1591,DevOps Engineer,Enterprise,Delhi NCR,Full-time,Naukri,10.6,4,AWS;CI/CD;Linux;Kubernetes,2026-05-08
+J1592,Data Scientist,Mid-size,Bengaluru,Full-time,Wellfound,10.0,1,Python;Statistics;TensorFlow,2026-03-13
+J1593,UI/UX Designer,Enterprise,Bengaluru,Full-time,Wellfound,4.6,2,Adobe XD;Figma;Wireframing;Prototyping;User Research,2026-01-18
+J1594,Backend Developer,Mid-size,Pune,Full-time,Naukri,7.8,0,REST APIs;Node.js;Docker;PostgreSQL;Python,2026-03-17
+J1595,Data Analyst,Mid-size,Pune,Full-time,Wellfound,7.3,2,Pandas;Python;Tableau;Power BI;SQL,2026-03-22
+J1596,Full Stack Developer,Mid-size,Delhi NCR,Full-time,Wellfound,8.9,5,TypeScript;AWS;Node.js;SQL;React,2026-07-03
+J1597,Data Analyst,Enterprise,Remote,Full-time,LinkedIn,7.9,3,SQL;Pandas;Power BI;Tableau;Python,2026-03-09
+J1598,Full Stack Developer,Enterprise,Hyderabad,Full-time,LinkedIn,7.5,3,React;Node.js,2026-07-27
+J1599,Backend Developer,Enterprise,Bengaluru,Internship,Indeed,4.8,1,Node.js;AWS;SQL;REST APIs,2026-03-02
+J1600,Data Analyst,Enterprise,Pune,Full-time,LinkedIn,5.3,0,Excel;Tableau;Power BI;Python;SQL,2026-06-18
