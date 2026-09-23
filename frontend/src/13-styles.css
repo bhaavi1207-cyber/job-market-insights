@@ -1,0 +1,26 @@
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  background: #0f172a;
+  color: #e2e8f0;
+}
+.app { max-width: 1100px; margin: 0 auto; padding: 24px 16px 48px; }
+header h1 { font-size: 1.6rem; color: #f8fafc; }
+header p { color: #94a3b8; margin-top: 4px; font-size: 0.9rem; }
+.cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 20px 0; }
+.card {
+  background: #1e293b; border: 1px solid #334155; border-radius: 10px; padding: 16px;
+}
+.card .label { font-size: 0.78rem; color: #94a3b8; text-transform: uppercase; letter-spacing: 0.05em; }
+.card .value { font-size: 1.7rem; font-weight: 700; color: #38bdf8; margin-top: 6px; }
+.grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 16px; }
+.panel {
+  background: #1e293b; border: 1px solid #334155; border-radius: 10px; padding: 16px;
+}
+.panel h2 { font-size: 1rem; color: #f8fafc; margin-bottom: 4px; }
+.panel .sub { font-size: 0.8rem; color: #94a3b8; margin-bottom: 12px; }
+.skill-row { display: flex; align-items: center; gap: 8px; margin: 6px 0; font-size: 0.85rem; }
+.skill-row .name { width: 110px; flex-shrink: 0; color: #cbd5e1; }
+.skill-row .bar { height: 10px; border-radius: 5px; background: #38bdf8; }
+.skill-row .n { color: #94a3b8; font-size: 0.78rem; }
+footer { margin-top: 28px; font-size: 0.78rem; color: #64748b; }
