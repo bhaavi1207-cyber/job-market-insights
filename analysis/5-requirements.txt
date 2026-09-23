@@ -1,0 +1,2 @@
+# Python 3.9+; no third-party packages required (analyze.py uses only the standard library).
+# If you extend the analysis with pandas/numpy, pin them here.
