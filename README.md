@@ -2,13 +2,7 @@
 
 A full data-to-UI portfolio project: a Python analysis pipeline turns raw
 job-posting data into structured insights, and a React dashboard visualizes
-them (role demand, salaries, skills, locations, trends).
-
-## Why this project
-
-Recruiters for frontend and junior software roles look for two things:
-comfort with data, and the ability to ship a clean UI. This project shows
-both in one repo:
+them (role demand, salaries, skills, locations)
 
 - **Data analysis** (`analysis/`): parses a CSV of 600 job postings,
   aggregates role counts, average salaries, top skills, location mix, job
